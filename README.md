@@ -1,5 +1,3 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E3RYFSW)
-
 # General
 [Kenney.nl's](https://kenney.nl/) prototype textures applied to a cube for Godot's asset library.
 Block out levels, prototype, do level design, test proportions, test imports and gameplay.
@@ -11,3 +9,4 @@ Block out levels, prototype, do level design, test proportions, test imports and
 | Asset | Source | License |
 | ------ | ------ | ------ |
 | Prototype Textures | [Kenney.nl](https://www.kenney.nl/assets/prototype-textures) | CC0 1.0 Universal |
+
